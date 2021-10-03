@@ -1,2 +1,7 @@
-# # Rajdeep Das Personal Website-https://rajspeaks.github.io
-Copyright Rajdeep Das
+# Rajdeep Das Personal Website
+
+Visit https://rajspeaks.github.io
+
+Made with ❤
+<br>
+&copy; Rajdeep Das
