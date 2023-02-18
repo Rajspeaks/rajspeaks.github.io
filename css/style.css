@@ -69,6 +69,12 @@ ul {
     padding: 0;
 }
 
+.dp{
+	float: right;
+  border: 1px dotted black;
+  margin: 0px 0px 15px 20px;
+
+}
 
 /*--/header --*/
 
@@ -273,7 +279,7 @@ div#word-mark h1 a {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    height: 50vw;
+    height: 30vw;
 	width: 100vw;
     position: relative;
     z-index: 0;
@@ -488,7 +494,7 @@ p.sub-meta {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    height: 60vw;
+    height: 30vw;
 }
 
 .stats_info p {
@@ -597,6 +603,8 @@ p.sub-meta {
 
 .banner-bottom-wthree.gallery {
     padding: 5em 0;
+	background: url("images/about.jpg");
+	background-size:cover;
 }
 
 p.quia {
@@ -728,7 +736,7 @@ a.carousel-control-prev.test {
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    height: 46vw;
+    height: 30vw;
 }
 
 .address-right p {
